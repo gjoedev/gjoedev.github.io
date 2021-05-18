@@ -6,5 +6,5 @@ body{
 .header{
     padding: 60;
     text-align: left;
-    background-image: linear-gradient(rgb(13, 17, 23), rgb(22, 27, 34));
+    background-color: crimson;
 }
