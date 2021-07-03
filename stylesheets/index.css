@@ -14,10 +14,3 @@ body{
 	margin-left: auto;
 	margin-right: auto;
 }
-.image{
-    background-size: 100%;
-}
-.image:hover{
-    background-size: 150%;
-    transition: .6s;
-}
