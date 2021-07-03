@@ -6,7 +6,7 @@ Okay, well maybe Im not *that* professional, but I think I make some pretty cool
 ## What I do 
 <html>
 <p align="Center">
-    <img src= "/images/Discord-Logo-White.png">
+    <img src= "/images/Discord-Logo-White.png" style= "background-color: rgba(0, 0, 0, 0);">
     <center>Discord Bots</center>
 </p>
 </html>
