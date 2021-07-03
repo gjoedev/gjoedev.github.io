@@ -14,4 +14,3 @@ Okay, well maybe Im not *that* professional, but I think I make some pretty cool
 
 
 <link rel="stylesheet" href="/stylesheets/index.css"/>
-</html>
