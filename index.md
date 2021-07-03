@@ -1,3 +1,7 @@
+---
+layout: deafault
+---
+
 ## Hey There 👋
 ### Im gjoe, a professional developer
 
