@@ -12,7 +12,7 @@ Okay, well maybe Im not *that* professional, but I think I make some pretty cool
 <img class="examples" border = "0" alt = "Discord Bots" src = "./images/Discord-Logo-White.png" width = "256">
 <img clas ="examples" border = "0" alt= "Unity Projects" src = "./images/unity-tab-square-black.png" width = "256">
 <!-- Credit for Minecraft logo here: https://github.com/simple-icons/simple-icons/issues/531 -->
-<img class = "examples" border = "0" alt = "Minecraft Mods" src = "./images/mc.png/" width = "256">
+<img class = "examples" border = "0" alt = "Minecraft Mods" src = "./images/minecraft.png" width = "256">
 </div>
 </html>
 
