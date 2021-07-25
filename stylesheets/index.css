@@ -14,13 +14,5 @@ body{
 	margin-left: auto;
 	margin-right: auto;
 }
-.examples{
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 30px;
-    background-color: rgba(0, 0, 0, 0);
-}
-#images{
-    text-align: center;
-}
+img[alt= "Discord Bots"] {width: 256px;}
+img[alt = "Unity Prpjects"]{width: 256px;}
