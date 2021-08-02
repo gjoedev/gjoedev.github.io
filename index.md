@@ -17,5 +17,5 @@ Okay, well maybe Im not *that* professional, but I think I make some pretty cool
 Im currently working on this website, along with patching some bugs on the [Demolay Event Bot](https://github.com/gjoedev/Demolay-Event-Bot)
 
 
-<link rel="icon" href="./images/icon.png/">
+<link rel="icon" type="image/png" href="./images/favicon.ico"/>
 <link rel="stylesheet" href="/stylesheets/index.css"/>
