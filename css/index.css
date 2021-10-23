@@ -62,3 +62,11 @@
     font-size:25px;
     text-underline-offset: -10000px;
 }
+.about-me p img{
+    size: 50px;
+}
+.about-me h5{
+    text-align: center;
+	color: #fff;
+	font-size:35px;
+}
