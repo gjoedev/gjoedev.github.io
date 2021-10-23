@@ -1,0 +1,64 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.banner-text {
+	width: 100%;
+	position: absolute;
+	z-index: 1;
+}
+.banner-text ul {
+	height: 50px;
+	float: right;
+}
+.banner-text ul li {
+	display: inline-block;
+	padding: 40px 15px;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 20px;
+}
+.banner-text ul a {
+	display: inline-block;
+	padding: 40px 15px;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 20px;
+    text-underline-offset: -100px;
+}
+.banner-text ul li:hover {
+	cursor: pointer;
+}
+
+.banner-text h2 {
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+	margin-top: 20%;
+}
+
+.banner-text h6 {
+	text-align: center;
+	color: #fff;
+	font-size:20px;
+}
+
+.about-me{
+    background-color: #161b22;
+}
+.about-me h4{
+    text-align: center;
+	color: #fff;
+	font-size:50px;
+}
+.about-me p{
+    text-align: center;
+	color: #fff;
+	font-size:25px;
+}
+.about-me p a{
+    color: #fff;
+    font-size:25px;
+    text-underline-offset: -10000px;
+}
