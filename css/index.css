@@ -82,6 +82,7 @@
 
 .what-i-do{
     background-color: #161b22;
+    padding-bottom:250px;
 }
 .what-i-do h4{
     text-align: center;
@@ -97,4 +98,45 @@
     color: #fff;
     font-size:25px;
     text-underline-offset: -10000px;
+}
+
+/* socials */
+
+.socials{
+    background-color: #161b22;
+	padding-bottom: 125px;
+}
+.socials h4{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+}
+.socials p{
+    text-align: center;
+    color:#fff;
+    font-size: 25px;
+}
+.socials i{
+    font-size: 50px;
+	color:#fff;
+}
+.socials i.fab.fa-github{
+	color: #fff;
+	width:50px;
+}
+.socials section{
+	text-align: center;
+}
+
+.footer-text{
+	background-color: #161b22;
+}
+.footer-text a{
+	color: #fff;
+	text-underline-offset: -10000px;
+}
+.footer-text a.i{
+	color: #fff;
+	width:15px;
+	max-height: 15px;
 }

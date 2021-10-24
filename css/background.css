@@ -67,6 +67,18 @@ body {
 	height: 110px;
 	animation-delay: 3.5s;
 }
+.box-area li:nth-child(7) {
+	left: 35%;
+	width: 90px;
+	height: 90px;
+	animation-delay: 4s;
+}
+.box-area li:nth-child(8) {
+	left: 69%;
+	width: 40px;
+	height: 40px;
+	animation-delay: 2s;
+}
 @keyframes animate {
 	0% {
 		transform: translateY(0) rotate(0deg);
